@@ -1,0 +1,2046 @@
+ARIN Emulator;ARINEmulator
+
+ASR Data Model;asr-data-model
+
+ASR Integration Adapter;asr-integration-adapter
+
+ATM;ATM
+
+ATP Core;atp-core
+
+ATest Product Component;test
+
+Access Control;access-control
+
+Access Management;access-management
+
+Activation Bus;activation-bus
+
+Activation Operations Catalog;activation-operations-catalog
+
+Address Management;AddressManagement
+
+Adjustment Management;Adjustment_Mgmt
+
+Administrative Tools: History;AdminTools.History
+
+Administrative Tools: Scripts Generator;AdminTools.ScriptsGenerator
+
+Administrative Tools: UI;AdminTools.UI
+
+Alcatel 1353/1354 Integration;Alcatel_1353_1354
+
+Alcatel 5620 SAM Integration;alcatel-5620-sam-int
+
+Applet Old;Applet
+
+Applet: Applications;APPLET.APP
+
+Applet: Applications: FTTH;APPLET.APP.FTTH
+
+Applet: Applications: GIS MapInfo;GISMapInfo
+
+Applet: Applications: GIS Resident;GISResident
+
+Applet: Applications: GIS WireMap;GISWireMap
+
+Applet: Applications: MSC;APPLET.MSC
+
+Applet: Applications: OSP;APPLET.OSP
+
+Applet: Applications: Rows;Applet.Rows
+
+Applet: Network Configurator;APPLET
+
+Applet: Workflow Configurator;APPLET.WF
+
+Application Server Configuration Scripts;application-server-configuration-scripts
+
+Application Server Configurator;application-server-configurator
+
+Application Server Template;application-server-template
+
+Appointment Reservation;AppointmentReservation
+
+Archiving;Archiving
+
+Asset Management;asset-management
+
+Asset Management(old);AssetMgmt
+
+Assignment Rules;AssignmentRules
+
+Attachment Management;AttachmentManagement
+
+Attachment Services;attachment-services
+
+Attachment Storage Service;attachment-storage-service
+
+Attribute Calculation Services;attribute-calculation-services
+
+Attributes and Types Configurator;AdminTool
+
+Attributes and Types Configurator (old);attributes-and-types-configurator-old
+
+Audit Trail Monitor;audit-trail-monitor
+
+Authentication & Authorization Framework;AuthFramework
+
+Authentication Configuration;authentication-configuration
+
+Authentication Services;authentication-services
+
+Authenticators Configurator;auth-configurator
+
+Authorization Services;authorization-services
+
+AutoInstaller;AutoInstaller
+
+Autorouting;Autorouting
+
+Auxiliary Scripts;AuxiliaryScripts
+
+Availability Check;AvailabilityCheck
+
+Availability and Feasibility Check;AC_FC
+
+BAIP. RBM Integration;baip-rbm-integration
+
+Base Administrative Tools;base-administrative-tools
+
+Base Inventory for Service/Product Inventory;GenericInventory
+
+Base Resource Inventory;base-resource-inventory
+
+Bill Calculation;Bill_Calculation
+
+Billing;Billing
+
+Billing Account Management;Billing_Accounts_Mgmt
+
+Billing Activation and Information Provider;billing-activation-and-information-provider
+
+Billing Activation and Information Provider. Partner Desktop;baip-partner-desktop
+
+Billing Catalog;billing-catalog
+
+Billing Common Entities;Billing_CE
+
+Billing Commons;billing-commons
+
+Billing Configuration Management;Billing_Conf_Mgmt
+
+Billing Dispute Management;billing-dispute-management
+
+Billing Mediation;BillingMediation
+
+Billing and Invoicing Management;Billing_Invoicing_Mgmt
+
+BlazeDS;BlazeDS
+
+Bulk Sales Order Creation Tool;bulk-sales-order-creation-tool
+
+Business Activity Monitoring;BAM
+
+Business Activity Monitoring for SPF;BAM_for_SPF
+
+Business Calendar;Calendar
+
+Business Operations Framework;business-operations-framework
+
+Business Order Entry;businessoe
+
+Business Rule Engine;business-rule-engine
+
+CBTUI NC Components;CBTUI_NCComponents
+
+CFGMGMT: Attribute Schema SQL Export tool;AttrExportTool
+
+CIA: Correlation Engine for Mass Market;CIACEMassMarket
+
+CIA: Event Management;CIAProdEm
+
+CIA: Notification Escalation;NotificationEscalation
+
+CIA: Trouble Ticketing;CIAProdTT
+
+CIAPlannedMaintenance;CIAPlannedMaintenance
+
+CIAServiceIncidentLogging;CIAServiceIncidentLogging
+
+CM CMDB;cm-cmdb
+
+CM Configuration Validator;cm-configuration-validator
+
+CM Current Config Extractor;cm-current-config-extractor
+
+CM Network Integration Point;cm-network-integration-point
+
+CM Network Queue Manager;cm-network-queue-manager
+
+CM Node Inventory;cm-node-inventory
+
+CM RPC Processor;cm-rpc-processor
+
+CM Service Layer Mediation;cm-service-layer-mediation
+
+CMTools;CMTools
+
+CRM Product sample patch;crm-product-sample-patch
+
+CSR Desktop;csr-desktop
+
+CSR Desktop. Incident Tickets Tracking;csr-desktop-incident-tickets-tracking
+
+CSR Payment Service;csr-payment-service
+
+CUBE Commons;cube-commons
+
+CUBE Install;cube-install
+
+CUBE Performance;cube-performance
+
+CUBE Testing Framework;cube-testing-framework
+
+Cable Customer Care and Shopping UI (Adaptive UI);cable-customer-care-and-shopping-ui
+
+Campaign Management;campaign-management
+
+Capacity Management;CapacityMgmt
+
+Capacity Planning. SDH/MW Topology Loader;cpl-sdh-mw-loader
+
+Capacity Planning. Transport Network;cpl-transport-ntwk
+
+Card Device Replacement Wizard;CardReplacement
+
+Catalog Generic;CatalogGeneric
+
+Catalog Resources;CatalogResources
+
+Cell Site Schematic View;cell-site-schematic-view
+
+Central User Management;user-management-central
+
+Charging Management;Charging_Mgmt
+
+Circuit Bulk Creation;CBC
+
+Circuit Design Manager;circuit-design-manager
+
+Circuit Model Descriptor;circuit-model-descriptor
+
+Cloud Platform Services;cloud-platform-services
+
+Cluster and Runtime Services;cluster-and-runtime-services
+
+Command Engine;CommandEngine
+
+Common Application Logging Framework;common-app-logging-framework
+
+Common Data Model;common-data-model
+
+Common Search Plugins;CommonSearchPlugins
+
+Common utils;cUtils
+
+Component-Based TUI;CBTUI
+
+Configurable Graph View;configurable-graph-view
+
+Configuration Management;ConfigurationMgmt
+
+Configuration Summary;configuration-summary
+
+Connectivity Detection Tool;connectivity-detection-tool
+
+Connectivity Detection Tool. Default Rules;connectivity-detection-tool-default-rules
+
+Contact Management;ContactManagement
+
+Core;Core_K5
+
+Core Componentized;Core
+
+Core Objects Operations Layer;core-objects-operations-layer
+
+Correlation Engine;CIAProdCE
+
+Correlation Engine. Basic Inventory Rules;correlation-engine-basic-inventory-rules
+
+Currency Management;Currency_Mgmt
+
+Customer Impact Analysis;CIAProd
+
+Customer Information Management;customer-information-management
+
+Customer Information and History Management;customer-information-and-history-management
+
+Customer Portal Platform;customer-portal-platform
+
+Customer Retention Management;customer-retention-management
+
+DCI Configuration;DCI_Configuration
+
+DSL;DSL
+
+DWDM;DWDM
+
+DWDM Configuration;DWDM_Configuration
+
+DWDM Network View;dwdm-ntwk-view
+
+Data Cache;datacache
+
+Data Extraction Tool;data-extraction-tool
+
+Data Object Beans;data-object-beans
+
+Data Preparation Engine;data-preparation-engine
+
+Data Request and Access;DataAccess
+
+Data Source Framework;DataSourceFramework
+
+DataFlow RTF Interface;DF_RTF_Interface
+
+DataFlow. MANO UI;dataflow-mano-ui
+
+DataFlow. Platform API;MediationDataFlowPP
+
+DataFlow. SNMP;dataflow-snmp
+
+DataFlow. TOMS UI;mediation-dataflow-toms-ui
+
+DataFlow. Terminals;dataflow-terminals
+
+DataFlow. WebServices;Mediation_DataFlow_WS
+
+Dependency Injection Commons;di-commons
+
+Deploy VM Init;deploy-vm-init
+
+Deploy VM Nginx;deploy-vm-nginx
+
+Deployer;deployer
+
+Design & Planning. Path Management;DP_Path_Management
+
+Design and Planning Default Rules;DP_Default_Rules
+
+Design and Planning Device View;design-planning-device-view
+
+Design and Planning Framework;DPFramework
+
+Design and Planning GUI: Floor Space Management;design-planning-gui-fsm
+
+Design and Planning GUI: Rack Space Management;design-planning-gui-rsm
+
+Design and Planning OSP Extension;DP_OSP_Prod
+
+Design and Planning Search Plugin;dp-search-plugin
+
+Design and Planning. ATM;dp-atm
+
+Design and Planning. Capacity Management;DP_CapacityManagement
+
+Design and Planning. Card Device Replacement Wizard;dp-cdrw
+
+Design and Planning. Circuit Bulk Creation;dp-cbc
+
+Design and Planning. Circuit Model Descriptor;dp-circuit-model-descriptor
+
+Design and Planning. DSL;dp-dsl
+
+Design and Planning. DWDM;dp-dwdm
+
+Design and Planning. Device Connectivity Wizard;dp-device-connectivity-wizard
+
+Design and Planning. HFC;dp-hfc
+
+Design and Planning. HFC Network View;dp-hfc-network-view
+
+Design and Planning. IP/MPLS/Metro Ethernet;dp-ip-mpls-metro_ethernet
+
+Design and Planning. IP/MPLS/Metro Ethernet Circuit Designer;dp-ip-mpls-me-circuit-designer
+
+Design and Planning. MPLS-TP Network View;dp-mpls-tp-ntwk-view
+
+Design and Planning. Metro Ethernet Network View;dp-me-ntwk-view
+
+Design and Planning. Microwave;dp-microwave
+
+Design and Planning. Mobile Inter-domain;dp-mobileid
+
+Design and Planning. Mobile RAN;dp-mobileran
+
+Design and Planning. NSS;dp-nss
+
+Design and Planning. Network Graph Manager;dp-ntwk-graph-manager
+
+Design and Planning. OTN;dp-otn
+
+Design and Planning. Object Graphical View Descriptor;dp-object-graphical-view-descriptor
+
+Design and Planning. RI Operations Framework;dp-ri-operations-framework
+
+Design and Planning. Resource Inventory;DP_ResourceInventory
+
+Design and Planning. SDH/PDH;dp-sdh-pdh
+
+Design and Planning. SONET;dp-sonet
+
+Design and Planning. SONET Network View;dp-sonet-network-view
+
+Design and Planning. SS7 SIGTRAN;dp-ss7
+
+Device Connectivity Wizard;device-connectivity-wizard
+
+Device Library;DL
+
+Device Library Report Tool;DL_Report
+
+Device View;device-view
+
+Diagram Template Editor;diagram-template-editor
+
+Discounting Management;Discounting_Mgmt
+
+Discovery Cisco Devices;DS_CiscoDevices
+
+Discovery SNMP Hardware;DS_SNMPHardware
+
+Discovery Solution;DS
+
+Discrete Service Lifecycle;DiscreteLifecycle
+
+Dispute and Adjustment Management;dispute-and-adjustment-management
+
+Disputes and Inquires Management;Disputes_Inquires_Mgmt
+
+Distributed Component Information Registry;distributed-component-info-registry
+
+Docker Elasticsearch;docker-elasticsearch
+
+Docker etcd;docker-etcd
+
+Documents;documents
+
+Domain Search;domain-search
+
+Dynamic Decisioning System;dynamic-decisioning-system
+
+Dynamic Security Subsystem;dynamic-security-subsystem
+
+E2E SDN Controller;e2e-sdn-controller
+
+E2E SDN Controller View;e2e-sdn-controller-view
+
+Elasticsearch Authentication Plugin;elasticsearch-authentication-plugin
+
+Elasticsearch Discovery Plugin;elasticsearch-discovery-plugin
+
+Elasticsearch Telegraf;elasticsearch-telegraf
+
+Encryption Services;encryption-services
+
+Entity and Service Adapter Framework;entity-and-service-adapter-framework
+
+Ericsson MLM Integration;Ericsson_MLM_INT
+
+Ericsson OSS Integration;Ericsson_OSS_Int
+
+Ericsson SOEM Integration;Ericsson_SOEM
+
+Error Handling Framework;ErrorHandling
+
+Ethernet Ring View;ethernet-ring-view
+
+Event Router;event-router
+
+Exception Handling;exception-handling
+
+Execution Statistics Collector;execution-statistics-collector
+
+Export / Import;ExportImport
+
+Export Subsystem;ExportSubsystem
+
+FTP Poller;ftp-poller
+
+Feasibility Check;FeasibilityCheck
+
+Financial Operation Management;Fin_Operation_Mgmt
+
+Flex Design and Planning;flex-design-planning
+
+Flex Fonts;flex-fonts
+
+Flex Fonts. Extended Character Set;flex-fonts-extended-character-set
+
+Flex Graph View;flex-graph-view
+
+Flex Internationalization and Localization;nc-flex-i18n
+
+Flex Parameters Editing;flex-parameters-editing
+
+Flex Resource Inventory;flex-resource-inventory
+
+Floor Space Management;FloorSpaceMgmt
+
+Form Designer;Forms
+
+Frame Relay;FrameRelay
+
+Frontend-Backend Interaction Security;frontend-backend-interaction-security
+
+Full-Text Search;full-text-search
+
+GIS Integration. Geocoding Interface;gis-integration-geocoding-interface
+
+GIS Integration. Google Maps Adapter;gis-integration-google-maps-adapter
+
+GIS Integration. Routing Interface;gis-integration-routing-interface
+
+GPON;GPON
+
+GPON Configuration;GPON_Configuration
+
+GSM;GSM
+
+GSM/UMTS RAN Configuration;RAN_Configuration
+
+GUI Capacity Planning;gui-capacity-planning
+
+GUI Configuration;gui-configuration
+
+GUI Core;GUI_Core
+
+GUI Diagram Editor;GUI_DiagramEditor
+
+GUI Flex Diagramming Core;GUI_FlexCore
+
+GUI GIS ArcIMS;GISArcIMS
+
+GUI GIS WMS;GISWMS
+
+GUI Inventory;GUI_Inventory
+
+GUI MSC;GUI_MSC
+
+GUI Metro Ethernet Network View;GUI_MetroEthernet
+
+GUI OPF Core;GUI_OPF_Core
+
+GUI OPF Demo;GUI_OPF_Demo
+
+GUI OPF Inventory;GUI_OPF_Inventory
+
+GUI OPF SPF;GUI_OPF_SPF
+
+GUI OSP;GUI_OSP
+
+GUI OSP Splicing/Splitting;GUI_OSP_Splicing
+
+GUI OSP Splitting;APPLET.APP.SPLITTING
+
+GUI Planning;GUI_PLANNING
+
+GUI Power Management;GUI_PowerMgmt
+
+GUI Service Visualization;GUI_ServiceVisualization
+
+GUI Shared Services Visualization;GUI_SSV
+
+GUI VLAN;Applet.VLAN
+
+GUI VPN;Applet.VPN
+
+GUI Wireless Technologies;GUI_Wireless
+
+GUI Workflow;GUI_Workflow
+
+GUI. UI Components;gui-ui-components
+
+GUI: BlazeDS utils;GUI_BlazedsUtils
+
+GUI: Block Diagrams Visualization;GUI_BlockDiagrams
+
+GUI: Coloring;GUI_Coloring
+
+GUI: FSM and RSM Commons;GUI_FSMRSM
+
+GUI: Flex Common;GUI_FlexCommon
+
+GUI: Flex SVG Visualization;GUI_FlexSVG
+
+GUI: Floor Space Management;GUI_FSM
+
+GUI: Offline Inventory Configurator;GUI_OIC
+
+GUI: Rack Space Management;GUI_RSM
+
+GUI: Rule Engine;GUI_RuleEngine
+
+GUI: WDM;GUI_WDM
+
+GWT Common;gwt-common
+
+GWT Linkage;gwt-linkage
+
+Generalized UI Framework;generalized-ui-framework
+
+Generic Tree;GenericTree
+
+Geographical View;geographical-view
+
+Geographical View for Microwave;geographical-view-for-microwave
+
+Geographical View for OSP;geographical-view-for-osp
+
+Geographical View for Path Management;geographical-view-for-path-management
+
+Geographical View for Resource Inventory;geographical-view-for-ri
+
+Graph View;graph-view
+
+Graphical Circuit Hierarchy View;graphical-circuit-hierarchy-view
+
+Graphics Styling;graphics-styling
+
+Guiding Management;Guiding_Mgmt
+
+HA Application Manager;ha-application-manager
+
+HA Environment Configuration Tools;ha-environment-configuration-tools
+
+HA Proxy Queue;ha-proxy-queue
+
+HA Runtime;ha-runtime
+
+HDS. OPF Config;hds-opf-config
+
+HFC;hfc
+
+HFC Network View;hfc-network-view
+
+HOM OTM REST Client;hom-otm-rest-client
+
+HOM Operational UI;hom-operational-ui
+
+HOM TFA REST Client;hom-tfa-rest-client
+
+HOM Umbrella UI;hom-umbrella-ui
+
+HOM Umbrella UI Web Service;hom-umbrella-ui-web-service
+
+HTML Graph View;html-graph-view
+
+Highly Available Message Broker;ha-message-broker
+
+History Data Storage;HDS
+
+History Database Layer;history-database-layer
+
+History Framework;history-framework
+
+History Tracking Services;history-tracking-services
+
+History Viewer;history-viewer
+
+Huawei M2000 3G Integration;Huawei_M2000_3G_Int
+
+Huawei M2000 Core Integration;Huawei_M2000_Core_Int
+
+Huawei M2000 Integration;Huawei_M2000_Int
+
+Huawei T2000 Integration;Huawei_T2000
+
+Hybrid Configuration Management;hybrid-configuration-management
+
+ICOMS Entity and Service Adapter;icoms-entity-and-service-adapter
+
+ICOMS Entity and Service Adapter. BOE Extension;icoms-esa-boe-extension
+
+ICOMS Entity and Service Adapter. CIHM Extension;icoms-esa-cihm-extension
+
+ICOMS Integration Layer;icoms-integration-layer
+
+ICOMS Integration Layer. BOE Extension;icoms-il-boe-extension
+
+ICOMS Integration Layer. CIHM Extension;icoms-il-cihm-extension
+
+ICOMS Integration Services(BSO);icoms-integration-services-bso
+
+ICOMS Integration. BOE Business Logic Extension;icoms-boe-bl-extension
+
+ICOMS Integration. BOE Model Extension;icoms-boe-model-extension
+
+ICOMS Integration. CIHM Business Logic Extension;icoms-cihm-bl-extension
+
+ICOMS Integration. CIHM Model Extension;icoms-cihm-model-extension
+
+ICOMS Integration. PIM Model Extension;icoms-pim-model-extension
+
+ICOMS Integration. ROE Business Logic Extension;icoms-roe-bl-extension
+
+IP Address Management;ip-address-management
+
+IP Inventory;ip-inventory
+
+IP Planner;IPPlanner
+
+IP Planner. Extended Ranges Model;ip-planner-extended-ranges-model
+
+IP Planner. RIPE Integration;ip-planner-ripe-integration
+
+IP/MPLS/Metro Ethernet;IP_MPLS_Metro_Ethernet
+
+IP/MPLS/Metro Ethernet Circuit Designer;ip-mpls-me-circuit-designer
+
+IP/MPLS/Metro Ethernet Configuration;IP_MPLS_Eth_Conf
+
+IPPlannerARINInt;IPPlannerARINInt
+
+IT Infrastructure;ITInfrastructure
+
+IT Infrastructure Extension;ITInfrastructureExt
+
+Ico Converter;ICO_Converter
+
+Identity Management;identity-management
+
+Identity Provider;identity-provider
+
+Infrastructure Logging Service;infrastructure-logging-service
+
+Integration Logging Center;integration-logging-center
+
+Integration Management Console;integration-management-console
+
+Integration SI and OM;IntegrationSIandOM
+
+Integration Testing Framework;integration-testing-framework
+
+Interactive Network View;interactive-network-view
+
+Inventory;Inventory
+
+Inventory Default Lifecycle;InventoryDefaultLifecycle
+
+Invoice Management and Distribution;Invoice_Mgmt_Distr
+
+JUnitNCBridge;JUnitNCBridge
+
+Jenkins PaaS Base;jenkins-paas-base
+
+Jeopardy Management;JeopardyMgmt
+
+Job Deploy Logging;job-deploy-logging
+
+Jobs / Scheduler;QuartzScheduler
+
+Jobs / Scheduler. Bulk Executor;jobs-scheduler-bulk-executor
+
+K5 Upgrade Scripts;k5-upgrade-scripts
+
+Kernel;Kernel
+
+Kernel Generalization Framework;KernelGeneralizationFramework
+
+Kernel utils;kerneUltils
+
+L2TP;l2tp
+
+LDAP;ldap-c
+
+Leads Tracking System;LTS
+
+License Management;license-management
+
+License Manager 3;LicenseManager3
+
+Licensing Client;licensing-client
+
+Licensing Core;licensing-core
+
+Life cycle manager;LifeCycleManager
+
+Localization Services;localization-services
+
+Localization Tool;localization-tool
+
+Localization Tool(old);localization-tool-old
+
+Locking & Versioning Component;LVC
+
+Logging Curator;logging-curator
+
+Logging Elasticsearch;logging-elasticsearch
+
+Logging Fluentd;logging-fluentd
+
+Logging Graylog;logging-graylog
+
+Logging Kibana;logging-kibana
+
+Login Service;login-service
+
+Loyalty Management;loyalty-management
+
+Loyalty Management. Product Lifecycle Management extension;loyalty-management-plm-extension
+
+Loyalty Management. RBM Integration;loyalty-management-rbm-integration
+
+Loyalty Management. ROE extension;loyalty-management-roe-extension
+
+Loyalty Management. Sales Order extension;loyalty-management-sales-order-extension
+
+MANO HA Agent;mano-ha-agent
+
+MANO License Management REST Client;mano-license-management-rest-client
+
+MANO Monitoring Processing Node REST Client;mano-monitoring-processing-node-rest-client
+
+MANO Network Service Orchestration REST Client;mano-network-service-orchestration-rest-client
+
+MANO Resource Orchestration REST Client;mano-resource-orchestration-rest-client
+
+ME/MPLS Network View;me-mpls-ntwk-view
+
+MPLS-TP Network View;mpls-tp-ntwk-view
+
+MTE. Data Traceability;mte-data-traceability
+
+MTE. Device Library Mapping;mte-device-library-mapping
+
+MTOSI Integration;MTOSI
+
+MUI;mui
+
+MW Configuration;MW_Configuration
+
+Mail Sender;MailSender
+
+Maintenance Scripts;MaintenanceScripts
+
+Market Segmentation;market-segmentation
+
+Master T-SDN Controller;master-tsdn-controller
+
+Maven Commons;MavenCommons
+
+Mediation Commons;MediationCommon
+
+Mediation Connection Manager;mediation-connection-manager
+
+Mediation DataFlow;Mediation_DataFlow
+
+Mediation Expect;MediationExpect
+
+Mediation JNDI-to-SQL;mediation-jndi-to-sql
+
+Mediation NC-to-XML;MediationNC-to-XML
+
+Mediation SNMP Adapter;mediation-snmp-adapter
+
+Mediation SNMP-to-SQL;MediationSNMP-to-SQL
+
+Mediation Standalone Backend;mediation-standalone-backend
+
+Mediation Standalone Frontend;mediation-standalone-frontend
+
+Mediation Testing Framework;mediation-testing-framework
+
+Mediation Text-to-XML;MediationText-to-XML
+
+Mediation Transition Engine;MediationTransition
+
+Mediation Transition Engine. MANO UI;mediation-transition-engine-mano-ui
+
+Mediation Transition Engine. TOMS UI;mediation-transition-engine-toms-ui
+
+Mediation XML-to-NC;mediation-xml-to-nc
+
+Message Bridge;message-bridge
+
+Message Dispatcher;dispatcher
+
+Message Dispatcher. DataFlow Interface;dispatcher-webservice
+
+Message Dispatcher. SMSC Integration;dispatcher-sms
+
+Message Dispatcher. WFM Mobile Client Adapter;dispatcher-wfm-mc-adapter
+
+Message Engine;MessageEngine
+
+Message Services;message-services
+
+Metamodel Access Layer;metamodel-access-layer
+
+Metro Ethernet;MetroEthernet
+
+Metro Ethernet Network View;me-ntwk-view
+
+Metro Ethernet Topology View;metro-ethernet-topology-view
+
+Microwave;Microwave
+
+Mobile Client Framework;Mobile_Client_FRW
+
+Mobile Core Configuration;Mobile_Core_Conf
+
+Mobile Geolocation Services;mobile-geolocation-services
+
+Mobile Inter-domain;mobileid
+
+Mobile RAN;mobileran
+
+Mobile Service Catalog;MSC
+
+Mobile Subscription Provisioning;mobile-subscription-provisioning
+
+Mobile Subscription Provisioning. Ericsson HLR;mobile-subscription-provisioning-ericsson-hlr
+
+Mobile Subscription Provisioning. Huawei UDB;mobile-subscription-provisioning-huawei-udb
+
+Mobile Subscription Provisioning. Nokia HLR;mobile-subscription-provisioning-nokia-hlr
+
+Mobile TUI;MobileTUI
+
+Mobile WFM;mobile-wfm
+
+Mongo Streaming;mongo-streaming
+
+Monitoring Agent;monitoring-agent
+
+Monitoring Agent Logging Plugin;monitoring-agent-logging-plugin
+
+Monitoring Aggregation Rules Configuration UI;monitoring-aggregation-rules-configuration-ui
+
+Monitoring Analytics Service;monitoring-analytics-service
+
+Monitoring Common;monitoring-common
+
+Monitoring Configuration Management;monitoring-configuration-management
+
+Monitoring Dashboards;monitoring-dashboards
+
+Monitoring Dashboards Configuration;monitoring-dashboards-configuration
+
+Monitoring Data Aggregation Engine;monitoring-data-aggregation-engine
+
+Monitoring Data Providers;monitoring-data-providers
+
+Monitoring Event Enrichment;monitoring-event-enrichment
+
+Monitoring Grafana;monitoring-grafana
+
+Monitoring Mediation Node Application Unit;monitoring-mediation-node-au
+
+Monitoring Mediation Proxy;monitoring-mediation-proxy
+
+Monitoring Platform Dashboards;monitoring-platform-dashboards
+
+Monitoring Policy Management Extras;monitoring-policy-management-extras
+
+Monitoring Processing Engine;monitoring-processing-engine
+
+Monitoring Processing Engine Rest API;monitoring-processing-engine-rest-api
+
+Monitoring Processing Node Application Unit;monitoring-processing-node-au
+
+Monitoring REST API;monitoring-rest-api
+
+Monitoring Rest API Client;monitoring-rest-api-client
+
+Monitoring Server Housekeeper;monitoring-server-housekeeper
+
+Monitoring Server Init;monitoring-server-init
+
+Monitoring Server Zabbix Server;monitoring-server-zabbix-server
+
+Monitoring Settings Management;monitoring-settings-management
+
+Monitoring Topology View;monitoring-topology-view
+
+Monitoring Tracing Utilities;monitoring-tracing-utilities
+
+Monitoring. RTF Deployment Adapters;monitoring-rtf-deployment-adapters
+
+Multiple Hierarchy Management;multiple-hierarchy-management
+
+NC Data Objects;NCDataObjects
+
+NC Data Objects Plugins;ncdo-plugins
+
+NC OSS Inventory;NC_OSS_Inventory
+
+NC OSS/J Availability Check;NC_OSSJ_AC
+
+NC OSS/J Availability/Feasibility Check;NC_OSSJ_ACFC
+
+NC OSS/J Base;NC_OSSJ_Base
+
+NC OSS/J Common;NC_OSS_Common
+
+NC OSS/J OPF Manager;NC_OSSJ_OPFM
+
+NC OSS/J Order Management;NC_OSSJ_OM
+
+NC OSS/J Resource Inventory API;NC_OSSJ_RI
+
+NC OSS/J Service Inventory;NC_OSSJ_SI
+
+NC OSS/J Workforce Management;nc-ossj-workforce-management
+
+NC Primary Key;nc-primary-key
+
+NC Query Language;nc-query-language
+
+NC TAPI;nc-tapi
+
+NC Templates;NCtemplates
+
+NC to NC replication;NC2NCReplication
+
+NC to NC replication intermediate database;NC2NC_INTERM_DB
+
+NC_OSSJ_OPF;NC_OSSJ_OPF
+
+NEC PNMSj Integration;NEC_PNMSj_Int
+
+NEC SRC Integration Adapter;nec-src-integration-adapter
+
+NEC vEPC Integration Adapter;nec-vepc-integration-adapter
+
+NEC vEPC NFVO Sample Catalog;nec-vepc-nfvo-sample-catalog
+
+NEC vEPC VNFM Sample Catalog;nec-vepc-vnfm-sample-catalog
+
+NFV Views Common;nfv-views-common
+
+NFVI Monitoring Configuration.Common;nfvi-monitoring-configuration-common
+
+NFVI Monitoring Configuration.Dashboards;nfvi-monitoring-configuration-dashboards
+
+NFVI Resource Orchestration;nfvi-resource-orchestration
+
+NFVI Views;nfvi-views
+
+NFVO Common Client;nfvo-common-client
+
+NFVO Inventory;nfvo-inventory
+
+NFVO Orchestration;nfvo-orchestration
+
+NSO Views;nso-views
+
+NSO Views Data Provider;nso-views-data-provider
+
+NSS;NSS
+
+NaaS EvCPE SSP Configuration;naas-evcpe-ssp-configuration
+
+NaaS Monitoring Configuration;naas-monitoring-configuration
+
+NaaS Solution Configuration;naas-solution-configuration
+
+NaaS TFA Configuration;naas-tfa-configuration
+
+Naming Framework;NamingFramework
+
+Navigation Tree;NavigationTree
+
+Nera Integration Adapter;Nera_INT
+
+NetCool Integration Adapter;NetCool
+
+NetCracker Cache;NCCache
+
+NetCracker Customer Portal;NCCP
+
+NetCracker License Administrator;netcracker-license-administrator
+
+NetCracker Monitoring and Diagnostic Tool;NCMT
+
+NetCracker Testing Tool;netcracker-testing-tool
+
+Network Elements support;NE
+
+Network Graph Manager;ntwk-graph-manager
+
+Network Path Finder;ntwk-path-finder
+
+Network Planning: Default Project;NetworkPlanningDefaultProject
+
+Network Planning: OSP Default Project;OSPPlanningDefaultProject
+
+Network Service Orchestration;network-service-orchestration
+
+Network Service Orchestration Client;network-service-orchestration-client
+
+Network Service Structure View;network-service-structure-view
+
+Network Switching Subsystem View;nss-view
+
+Network View Manager;ntwk-view-manager
+
+Nodes Load Balancer;nodes-load-balancer
+
+Nokia NetAct Integration;Nokia_NetAct_Int
+
+Notification Service;notification-service
+
+OCS Action Manager;ocs-action-manager
+
+OCS Configuration Manager;ocs-configuration-manager
+
+OCS Installer;ocs-install
+
+OCS Plugin Manager;ocs-plugin-manager
+
+OCS Process Manager;ocs-process-manager
+
+OM Engine;OMEngine
+
+OM Navigation Tree;OM_Nav_Tree
+
+OOB Triple Play Service Catalog;tripleplay
+
+OPF Configuration UI;OPFConfigurationUI
+
+OPF Core;opf-core
+
+OPF Dashboards and Widgets;OPF_DnW
+
+OPF Inventory;opf-inventory
+
+OPF Manager;OM.OPFM
+
+OPF Order Tree View;OPF_OTV
+
+OPF Rules;opf-rules
+
+OPF Sample Triple Play Catalog;OPF_STP_Catalog
+
+OPF Utility Interaction Items;OPF_Utility_II
+
+OPF. SAF Interaction;opf-saf-interaction
+
+OSP;OSP
+
+OSP Configuration;OSPConfiguration
+
+OSP Connectivity View;osp-connectivity-view
+
+OSP component-based TUI;OSP-TUI
+
+OSP: FTTH;FTTH
+
+OSS SPF Performance Pack Integration;NC_OSS_SPFPP_INT
+
+OSS/J Fault Management Integration;OSSJ_FM_INT
+
+OSS/J Offering Catalog;ossj-offering-catalog
+
+OSS/J Service/Product Inventory;ossj-service-product-inventory
+
+OTM Common;otm-common
+
+OTM Juniper RPM Pack;otm-juniper-rpm-pack
+
+OTM Mediation;otm-mediation
+
+OTM Netrounds Pack;otm-netrounds-pack
+
+OTM Operational UI;otm-operational-ui
+
+OTM Processing;otm-processing
+
+OTN;OTN
+
+Object Creation Dialog;object-creation-dialog
+
+Object Graphical View Descriptor;object-graphical-view-descriptor
+
+Object History;object-history
+
+Objects Copier;objects-copier
+
+Objects Versioning;objects-versioning
+
+Offering Catalog GUI;offering-catalog-gui
+
+Offline Import Tool;OfflineImportTool
+
+Online Help System;Help
+
+Openshift Installer;openshift-installer
+
+Openshift Smoketest;openshift-smoketest
+
+Openstack Monitoring Configuration;openstack-monitoring-configuration
+
+Order Decomposition GUI;order-decomposition-gui
+
+Order Entry;OrderEntry
+
+Order Entry Facade;order-entry-facade
+
+Order Entry. Appointment Reservation;orderentry-appointment-reservation
+
+Order Management;OrderManagement
+
+Order Management Dashboards;OM_Dashboards
+
+Order Management. Billing Operations;order-management-billing-operations
+
+Order Monitoring;order-monitoring
+
+Order Processing Framework;OM_InterLayer_Prod
+
+Order Tracker;order-tracker
+
+Order Tracker. AutoInstaller;order-tracker-autoinstaller
+
+Order Tracker. CSV Plugin;order-tracker-csv-plugin
+
+Order Tracker. Data Transformation Service;data-transformation-service
+
+Order Tracker. Errors Categorizer Plugin;order-tracker-errors-categorizer-plugin
+
+Order Tracker. Errors Categorizer Service;order-tracker-errors-categorizer-service
+
+Order Tracker. Health Check Plugin;order-tracker-health-check-plugin
+
+Order Tracker. KPI Data Capture Plugin;order-tracker-kpi-data-capture-plugin
+
+Order Tracker. KPI Data Capture Service;order-tracker-kpi-data-capture-service
+
+Order Tracker. Monitor Service;order-tracker-monitor-service
+
+Order Tracker. Outdated Data Cleaning Plugin;order-tracker-outdated-data-cleaning-plugin
+
+Order Tracker. Outdated Data Cleaning Service;order-tracker-outdated-data-cleaning-service
+
+Order Tracker. Security Plugin;order-tracker-security-plugin
+
+Order Tracker. Thresholds Plugin;order-tracker-thresholds-plugin
+
+OrderManagement_legacy;OMLegacy
+
+Overdue Tracking Service;overdue-tracking-service
+
+PBT;PBT
+
+PG Patroni Controller;pg-patroni-controller
+
+PG Patroni Metric Collector;pg-patroni-metric-collector
+
+PG96 Patroni;pg96-patroni
+
+PG96 Patroni Base;pg96-patroni-base
+
+PSE. Monitoring and Diagnostic Tools;pse-monitoring-and-diagnostic-tools
+
+PaaS Deploy Jenkins;paas-deploy-jenkins
+
+PaaS Predeploy Stack;paas-predeploy-stack
+
+PaaS RPMs;paas-rpms
+
+Page Export Model;page-export-model
+
+Parallel Script Executor;parallel-script-executor
+
+Parameters Visualization;parameters-visualization
+
+Partner Desktop;partner-desktop
+
+Partner Management;partner-management
+
+Partner Management. RBM Integration;partner-management-rbm-integration
+
+Password Policies;password-policies
+
+Path Management;path-management
+
+Payment Management;Payment_Mgmt
+
+Payment and Receivables Management;payment-and-receivables-management
+
+Payments Inventory Management;Payments_Inv
+
+Performance Monitor;PerformanceMonitor
+
+Performance diagnostics tool;PDT
+
+Persistence Framework;persistence-framework
+
+Persistence Framework. Object History;persistence-framework-object-history
+
+Persistence Framework. Security;persistence-framework-security
+
+Phone Book;PhoneBook
+
+Phone Book: American Data Model;PhoneBookAmerican
+
+Phone Book: European Data Model;PhoneBookEuro
+
+Planning Facade;planning-facade
+
+Platform Abstraction Layer;platform-abstraction-layer
+
+Platform Data Transport;platform-data-transport
+
+Platform utils;PlatformUtils
+
+Policy Counter Control;policy-counter-control
+
+Policy Framework;PolicyFramework
+
+Policy Management Core;policy-management-core
+
+Policy Management Extras;policy-management-extras
+
+Policy Management Server;policy-management-server
+
+Policy Management UI;policy-management-ui
+
+Portal Authentication;portal-authentication
+
+Portal Framework;portal-framework
+
+Portal UI Library;portal-ui-library
+
+Portal utils;portal-utils
+
+PostgreSQL Logical Decoding;postgresql-logical-decoding
+
+PostgreSQL Service;pg-service
+
+Postgres Backup Daemon;postgres-backup-daemon
+
+Power Management and Cooling;PM_Cooling
+
+Pretty Core;Pretty_Core
+
+Process Activity View;process-activity-view
+
+Process Management Views;process-management-views
+
+Process Orchestrator;ProcessOrchestrator
+
+Process Orchestrator Monitoring;OrchestratorMonitoring
+
+Product Catalog;product-catalog
+
+Product Catalog Importer;product-catalog-importer
+
+Product Inventory;product-inventory
+
+Product Lifecycle Management;product-lifecycle-management
+
+Product Lifecycle Management. RBM integration;product-lifecycle-management-rbm-integration
+
+Product Offering Catalog;product-offering-catalog
+
+Product Offering Catalog Loader;product-offering-catalog-loader
+
+Product Offering Catalog UI;product-offering-catalog-ui
+
+Product Offering Catalog UI. BAIP Extension;product-offering-catalog-ui-baip-extension
+
+Product Offering Catalog UI. Loyalty Management Extension;product-offering-catalog-ui-lmgt-extension
+
+Product Offering Catalog UI. PLM Extension;product-offering-catalog-ui-plm-extension
+
+Product Offering Catalog. Accelerated Mode;product-offering-catalog-accelerated-mode
+
+Product Order Management;POM
+
+Products/Services Catalog Characteristics Extension;PSCatalogCharacteristics
+
+Profiler;Profiler
+
+Provisioning;Provisioning
+
+QueryBuilder;QueryBuilder
+
+Queue Service;QueueService
+
+Quota Cache Manager;quota-cache-manager
+
+RBM Entity and Service Adapter;rbm-entity-and-service-adapter
+
+RBM Product Offering Catalogue extension;rbm-product-offering-catalogue-extension
+
+RDB light;RDBLight
+
+RDB. DWDM Configuration;rdb-dwdm-configuration
+
+RDB. Generic Resource Inventory Configuration;rdb-ri-configuration
+
+RDB. IP/MPLS/Metro Ethernet Configuration;rdb-ip-mpls-eth-configuration
+
+RDB. Microwave Configuration;rdb-mw-configuration
+
+RDB. Mobile Core Configuration;rdb-mobile-core-configuration
+
+RDB. Mobile RAN Configuration;rdb-mobile-ran-configuration
+
+RDB. OSP Configuration;rdb-osp-configuration
+
+RDB. SDH/PDH Configuration;rdb-sdhpdh-configuration
+
+RDB. WFM Configuration;wfm-rdb-oob
+
+REST Framework;rest-framework
+
+RI Configuration;RIConfiguration
+
+RI Operations Framework;ri-operations-framework
+
+RMI Call Router;rmi-call-router
+
+RMS Cassandra Connection Client;rms-cassandra-connection-client
+
+RMS Datasource Manager;rms-datasource-manager
+
+RMS Diameter Interface Generator;rms-diameter-interface-generator
+
+RMS Encryption Service;rms-encryption-service
+
+RMS Event Mapping Service;rms-event-mapping-service
+
+RMS KPI Enricher;rms-kpi-enricher
+
+RMS Kafka Messaging;rms-kafka-messaging
+
+RMS Online Service Data Loader;rms-online-service-data-loader
+
+RMS Online Service Data Manager;rms-online-service-data-manager
+
+RMS SMART Installer;rms-smart-installer
+
+RMS utils;rms-utils
+
+RTF API;rtf-api
+
+RTF Administration Console;rtf-admin-console
+
+RTF Alarm Management;RTF_Alarm
+
+RTF Autoinstaller;rtf-autoinstaller
+
+RTF Bootstrap;rtf-bootstrap
+
+RTF Caching;rtf-caching
+
+RTF Cluster;rtf-cluster
+
+RTF Component Test Container;RTF_TestContainer
+
+RTF Configuration Management;RTF_Configuration
+
+RTF Core;RTF_Core
+
+RTF Core utils;RTF_Core_Utils
+
+RTF DB Management;RTF_DB_Service
+
+RTF DB Management. Oracle Support;rtf-db-mgmt-oracle-support
+
+RTF Data Synchronization FRW Side;RTF_DataSync_FRWSide
+
+RTF Data Synchronization RTF Side;RTF_DataSync_RTFSide
+
+RTF Encryption;rtf-encryption
+
+RTF HA Agent;rtf-ha-agent
+
+RTF Health Check;rtf-health-check
+
+RTF JMS Management;RTF_JMS_Mgmt
+
+RTF JMS Management. HornetQ Support;rtf-jms-mgmt-hornetq-support
+
+RTF JMS Management. Weblogic Support;rtf-jms-mgmt-weblogic-support
+
+RTF KPI Aggregator;rtf-kpi-aggregator
+
+RTF KPI Management;RTF_KPI
+
+RTF Logger;RTF_Logger
+
+RTF Memory Grid Management;rtf-memory-grid-management
+
+RTF Node Agent;rtf-node-agent
+
+RTF Overload Management;rtf-overload-management
+
+RTF REST;rtf-rest
+
+RTF Remote Messaging;rtf-remote-messaging
+
+RTF Runtime;RTF_Runtime
+
+RTF Runtime Manager;rtf-runtime-manager
+
+RTF SDK;rtf-sdk
+
+RTF Security;rtf-security
+
+RTF Shell Karaf;RTF_Shell_Karaf
+
+RTF Spring Integration;rtf-spring-integration
+
+RTF Timer Management;RTF_Timer
+
+RTF utils;RTF_Utils
+
+RTF Web Container;rtf-web-container
+
+RTF Web Services;rtf-web-services
+
+RTRI Integration Adapter;rtri-integration-adapter
+
+Radio Controller View;radio-controller-view
+
+Rating Catalog;rating-catalog
+
+Rating Engine;RatingEngine
+
+Rating Event Bus;rating-event-bus
+
+Realtime Notification Gateway;realtime-notification-gateway
+
+Reconciliation Engine;Reconciliation
+
+Reference Selector;ReferenceSelector
+
+Replicated Database;RDB
+
+Reports Engine;ReportsEngine
+
+Reports Scheduler;reports-scheduler
+
+Reports UI;reports-ui
+
+Repository of Customers;repository-of-customers
+
+Residential Order Entry;residential-order-entry
+
+Residential Order Entry BAIP Integration;residential-order-entry-baip-integration
+
+Residential Order Entry. Asset Ordering;residential-order-entry-asset-ordering
+
+Resource Assignment and Reservation;RAR
+
+Resource Caching Manager;resource-caching-manager
+
+Resource Group Manager;ResourceGroupManager
+
+Resource Inventory;ResourceInventory
+
+Resource Inventory Replicated Database;RI_RDB
+
+Resource Orchestration Client;resource-orchestration-client
+
+Resource Order Management;ResourceOrderManagement
+
+Rhino Eclipse RDT Plug-in;RhinoEclipseRDT_Plugin
+
+Role Openshift Monitoring;role-openshift-monitoring
+
+Role Openshift Monitoring Heapster;role-openshift-monitoring-heapster
+
+Role Openshift Monitoring Telegraf;role-openshift-monitoring-telegraf
+
+Role Openshift Platform Openstack;role-openshift-platform-openstack
+
+Role Openshift Post Install;role-openshift-post-install
+
+Role Openshift Pre Install;role-openshift-pre-install
+
+Role Openshift Separate Balancers;role-openshift-separate-balancers
+
+Role-Based Access Control;role-based-access-control
+
+Rule Engine;NWPLEngine
+
+Rule Engine Core;rule-engine-core
+
+Rule Engine UI;rule-engine-ui
+
+Rule Engine Visualization API;RuleEngineVisualizationAPI
+
+S3 to SSH;s3tossh
+
+SDH Circuit Designer;sdh-circuit-designer
+
+SDH Network View;sdh-network-view
+
+SDH/PDH;SDH
+
+SDH/PDH Configuration;SDHPDHConfiguration
+
+SDN RTF Platform AU;sdn-rtf-platform-au
+
+SIAE NMS5-UX Integration;SIAE_NMS5UX
+
+SLA Computation Library. Correlation;sla-computation-library-correlation
+
+SLA Management;SLAManagement
+
+SLA Trouble Ticketing;sla-trouble-ticketing
+
+SM Operational UI;sm-operational-ui
+
+SMART Engine Common VPAs;smart-engine-common-vpas
+
+SMART Engine Commons;smart-engine-commons
+
+SMART Event Redistributor and Extractor;smart-event-redistributor-extractor
+
+SMART Event Stream Collector;smart-event-stream-collector
+
+SMART Event Stream Processor;smart-event-stream-processor
+
+SNMP proxy;snmp-proxy
+
+SOM Sample Triple Play Catalog;SOM_STP_Catalog
+
+SONET;SONET
+
+SONET Network View;sonet-ntwk-view
+
+SPF Performance Pack;SPF_PerformancePack
+
+SPF Rules-based extension;SPF2NWPL
+
+SQM Core;sqm-core
+
+SS7 SIGTRAN;SS7_SIGTRAN
+
+SSH Client Web Service;ssh-client-web-service
+
+SSH Templates;ssh-templates
+
+Sales Force Automation;sales-force-automation
+
+Sales Management;sm
+
+Sales Order Engine;sales-order-engine
+
+Sales Order Engine. BAIP Extension;sales-order-engine-baip-extension
+
+Sales Order Processing;sales-order-processing
+
+Sales Order Quotation;sales-order-quotation
+
+Sales Order RBM extension;sales-order-rbm-extension
+
+Sales Order Validation;sales-order-validation
+
+Sample OE-COM-SOM Configuration;sample-oe-com-som-configuration
+
+Scalable Database Extension;scalable-database-extension
+
+Scheduler Engine;scheduler-engine
+
+Scheduler Management;Scheduler_Mgmt
+
+Scripting;Scripting
+
+Search;SearchEngine
+
+Search Configuration;search-configuration
+
+Search Index Builder;search-index-builder
+
+Search REST API;search-rest-api
+
+Security Commons;security-commons
+
+Security Subsystem;Security
+
+Self-Service Portal;self-service-portal
+
+Server Resource Broker;server-resource-broker
+
+Server control scripts;server-control-scripts
+
+Service Activation Framework;SAF
+
+Service Inventory;ServiceInventory
+
+Service Inventory CFS/RFS Extension;ServiceInventory_CFSRFS_Extension
+
+Service Provisioning Framework;SPF
+
+Service Quality Monitoring;service-quality-monitoring
+
+Single RAN Configuration;Single_RAN_Configuration
+
+Skill Management;SkillManagement
+
+Software and Licenses;SoftLicenses
+
+Solution Configuration Management;SolutionConfigurationMgmt
+
+Solution Configuration Management. Development Kit;scm-development-kit
+
+Solution Configuration Management. Generic Model;scm-generic-model
+
+Spatial Data Manager;spatial-data-manager
+
+Specification Catalog GUI;specification-catalog-gui
+
+Specification Catalog UI;specification-catalog-ui
+
+Specification Engine;SpecificationEngine
+
+Spring Commons;spring-commons
+
+Static Resources Access;static-resources-access
+
+Streaming Platform;streaming-platform
+
+Subscriber Inventory;SubscriberInventory
+
+Swift to ssh;swift2ssh
+
+Synchronization Network;synchronization-network
+
+Synchronization Network View;synchronization-network-view
+
+System Events Dispatcher;system-events-dispatcher
+
+System Monitor;SystemMonitor
+
+System Monitor Configuration;system-monitor-configuration
+
+System Monitor Console;system-monitor-console
+
+System Monitor Metric Collectors;system-monitor-metric-collectors
+
+System Troubleshooting Information Collector;system-troubleshooting-information-collector
+
+TBAPI GraphQL Endpoint;tbapi-graphql-endpoint
+
+TBAPI Services;tbapi-services
+
+TFA Aggregation Node Application Unit;tfa-aggregation-node-au
+
+TFA Collection Node Application Unit;tfa-collection-node-au
+
+TFA Common;tfa-common
+
+TFA Data Collection;tfa-data-collection
+
+TFA Hybrid Node Application Unit;tfa-hybrid-node-au
+
+TFA Operational UI;tfa-operational-ui
+
+TFA Pmacct Application Unit;tfa-pmacct-au
+
+TFA Redis Application Unit;tfa-redis-au
+
+TUI Theme Brisk;theme-brisk
+
+TUI Theme Cambridge;TUI_Theme_Cambridge
+
+TUI Theme Cambridge bordered;tui-theme-cambridge-bordered
+
+TUI Theme Classic;tui_theme_classic
+
+TUI Theme Focused Forward;tui-theme-focused-forward
+
+TUI Theme Harvard;TUI_Theme_Harvard
+
+TUI Theme New York;tui_theme_newyork
+
+Table Switcher;table-switcher
+
+Task Assignment Rules;TAR
+
+Taxation Management;Taxation_Mgmt
+
+Taxation Schemes Catalog;Tax_Schemes
+
+Telecom Business API;telecom-business-api
+
+Telecom Cost Management;TCM
+
+Tellabs 8000 NM Integration;Tellabs_8000_NM_Int
+
+Template Based Document Generator;template-based-document-generator
+
+Template Based Integration;TBIntegration
+
+Template Based Integration OOB Adapters;TemplateBasedIntegration_OOB_Adapters
+
+Template Based Integration. OPF Support;template-based-integartion-opf-support
+
+Test 22.04 Product Component;testt
+
+Textual UI;TextualUI
+
+Textual UI Extras;TUI_Extras
+
+Thread and Priority Management;ThreadManagement
+
+Tracing Dependencies;tracing-dependencies
+
+Tracing Service;tracing-service
+
+Transport Network Mediation;transport-network-mediation
+
+Transport Network View;transport-network-view
+
+Trouble Ticket Management;TTM
+
+UI Components;ui-components
+
+UI Configuration Tool;ui-configuration-tool
+
+UI Data Sources;ui-data-sources
+
+UI Exception Handling;ui-exception-handling
+
+UI Feedback;ui-feedback
+
+UI Generalization Framework;UIGeneralization
+
+UI Generalization Tools;UIGT
+
+UI Localization Services;ui-localization-services
+
+UI Macro Components;ui-macro-components
+
+UI Message Engine;ui-message-engine
+
+UI Message Services;ui-message-services
+
+UI Messages Facade;ui-messages-facade
+
+UI Model Composition Engine;ui-model-composition-engine
+
+UI Platform;ui-platform
+
+UI Platform utils;UIPlatformUtils
+
+UI Plugins;UI_Plugins
+
+UI Specific Core;UISpecificCore
+
+UI Themes;ui-themes
+
+UI Toolkit;ui-toolkit
+
+UMTS;UMTS
+
+Umbrella UI Redis;umbrella-ui-redis
+
+Unit Testing;UnitTesting
+
+Unroll Metamodel Plain Table;unroll-metamodel-plain-table
+
+User Details Provider;user-details-provider
+
+User Management;user-management
+
+User Management UI;user-management-ui
+
+User Task Engine;user-task-engine
+
+User and Grants Management;user-grants-management
+
+User and Grants Management UI;user-and-grants-management-ui
+
+VLAN;VLAN
+
+VLAN Management;vlan-management
+
+VLAN Resource Provisioning;RP.VLAN
+
+VNF License Management Client;vnf-license-management-client
+
+VNF Lifecycle Manager;vnf-lifecycle-manager
+
+VNF Lifecycle Manager Client;vnf-lifecycle-manager-client
+
+VNF Management REST Client;vnf-management-rest-client
+
+VNF Onboarding Portal;vnf-onboarding-portal
+
+VNF Structure View;vnf-structure-view
+
+VNFM Views;vnfm-views
+
+VNFM Views Data Provider;vnfm-views-visualisation-provider
+
+VPLS;VPLS
+
+VPN ATM;VPN_ATM
+
+VPN Frame Relay;VPN_FR
+
+VPN IP;VPN_IP
+
+VPN MPLS;VPN_MPLS
+
+VPN View;vpn-view
+
+Validation Framework;ValidationFramework
+
+Vector Graphical Library;VGTUI
+
+View Actions Configuration;view-actions-configuration
+
+View Meta Model;ViewMetaModel
+
+VoATM;VoATM
+
+Voice;voice
+
+Voucher Management;voucher-management
+
+WAN. IP/MPLS/Ethernet Inventory;wan-ip-mpls-ethernet-inventory
+
+WFM Column Chart Widget;WFMColumnWidget
+
+WFM Dashboards;wfm-dashboards
+
+WFM Dispatcher;WFMDispatcher
+
+WFM Employee Calendar;EmployeeCalendar
+
+WFM Mobile client;WFM_Mobile_client
+
+WFM OOB Configuration;WFM_OOB
+
+WFM Pie Chart Widget;WFMPieWidget
+
+WFM Reports;wfm-reports
+
+WFM Schedule Base;WFMScheduleBase
+
+WFM. Adapter for Process Orchestrator;wfm-adapter-for-process-orchestrator
+
+WFM. Assignment Tool;AssignmentTool
+
+WFM. Jeopardy Management;wfm-jeopardy-management
+
+WFM. WorkScheduler;WorkScheduler
+
+WFM.Work Planner;WorkPlanner
+
+WFM.Work order aggregation;WorkOrderAggregation
+
+WFM.Work order management;WorkOrderManagement
+
+WFM.Workforce inventory;WorkforceInventory
+
+Wf Autodoc;WfDoc
+
+WiMax;WIMAX
+
+Widgets Framework;WidgetsFrm
+
+Widgets Out Of Box;WidgetsOOB
+
+Work Order;OMWO
+
+Work Order Life Cycle Management;WorkOrderLCM
+
+Work Order Structure;WorkOrderStructure
+
+Workflow;Workflow
+
+Workflow Service;workflow-service
+
+Workforce Management Autotesting;WFMAutotesting
+
+Xpath;XPath
+
+Zabbix Monitoring;zabbix-monitoring
+
+[Deprecated] Billing;[Deprecated] Billing
+
+[Deprecated] Data Migration (DM Tool);DM
+
+[NPTS Support]Test;NPTS Test
+
+[TEST NPTS] CC;cc
+
+[TEST NPTS] Product Component;123
+
+[TEST NPTS] SVN;svn
+
+[TEST NPTS] SVN for BF;aa
+
+[TO DELETE] OPF Rule Based Extension;OPF_NWPL
+
+[TODELETE] Phone Book American Model;PhoneBookAm
+
+[TODELETE] Phone Book European Model;PhoneBookEuropean
+
+[TODELETE] Power Management & Cooling;PM&Cooling
+
+[TODELETE] Resource Order Management;ROM
+
+[TODELETE] Software and Licenses;S&Licenses
+
+[TODELETE]CIA: Trouble Ticketing;TTicketing
+
+[TODELETE]Customer Impact Analysis;CIA_TODELETE
+
+[TODELETE]Data Center Inventory;DCI
+
+[TODELETE]GSM Bite;GSM_to_delete
+
+[TODELETE]Legacy OSP [Wipro];LegacyOSP
+
+[TODELETE]NC Tools Framework;NCToolsFramework
+
+[TODELETE]Notification Framework;Notification
+
+[TODELETE]Provisioning [LGN];ProvisioningLGN
+
+[TODELETE]SMTP Proxy;SMTPProxy
+
+[TODELETE]UI_Design;UI_Design
+
+[TODELETE]VoIP;VoIP
+
+[Test NPTS] Product Component;abbtesttnpts
+
+[error];WFM_Mobile_client_error
+
+db150;db150
+
+vEPC Monitoring Configuration.Common;vepc-monitoring-configuration-common
+
+vEPC Monitoring Configuration.Dashboards;vepc-monitoring-configuration-dashboards
+
+vEPC Monitoring Mediation Proxy;vepc-monitoring-mediation-proxy
+
+vNOC Main View;vnoc-main-view
+
+vNOC View Data Provider;vnoc-view-data-provider
+
+vNOC View Environment;vnoc-view-environment
+
+vmWare Monitoring Configuration;vmware-monitoring-configuration
+
+xDSL Configuration;xDSL_Configuration
+
+xPON;xpon
+
+xPON Views;xpon-views
+
+yFiles for HTML Common;yfiles-html-common
+
